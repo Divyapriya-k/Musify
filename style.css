@@ -1,0 +1,59 @@
+.register-container{
+    border-radius: 5px;
+    padding: 20px;
+    margin: 150px auto;
+    width: 400px;
+    background: linear-gradient(to top, #f665f1, #89e4e7); /* Adjust colors as needed */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  button
+  {
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    background: linear-gradient(to right, #ee1be7, #486bbb);
+    color: #fff;
+    border: none;
+    cursor: pointer;    
+  }
+  button {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button img {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+  }
+  
+  button a {
+    text-decoration: none;
+    color: #fff;
+  }
+/* .card{
+    border-radius: 5px;
+    padding: 150px 20px;
+    margin: 150px auto;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    border: none;
+    cursor: pointer;  
+} */
+/* .card img{
+    border-radius: 5px;
+    width: 0px;
+    height: 20px;
+    padding: 50px;
+    
+  
+} */
