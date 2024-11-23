@@ -1,3 +1,6 @@
+body{
+  background: linear-gradient(to top, #7defef, #c157d1); /* Adjust colors as needed */
+}
 .register-container{
     border-radius: 5px;
     padding: 20px;
